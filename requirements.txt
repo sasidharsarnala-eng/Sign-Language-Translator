@@ -1,0 +1,7 @@
+# Python 3.11 is used in the Docker image for MediaPipe wheel compatibility.
+streamlit>=1.41,<2
+streamlit-webrtc>=0.63,<1
+mediapipe==0.10.21
+opencv-contrib-python==4.10.0.84
+numpy<2
+SpeechRecognition>=3.14,<4
